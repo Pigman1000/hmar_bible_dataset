@@ -2,7 +2,7 @@
 license: cc-by-4.0
 ---
 
-# Dataset Card for ASV-CLBSI Bible Dataset
+# Dataset Card for Hmar Bible Dataset
 
 This dataset contains parallel verses in English and Hmar languages, curated from the **American Standard Version (ASV)** for English and the **Christian Literature by Bible Society of India (CLBSI)** for Hmar. It is structured to facilitate linguistic and translation studies.
 
