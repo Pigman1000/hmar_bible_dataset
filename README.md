@@ -22,7 +22,7 @@ This dataset provides verse-level parallel translations of the Bible in English 
 
 ### Dataset Sources
 
-- **Repository:** [GitHub Repository Link Needed]  
+- **Repository:** [https://github.com/Pigman1000/hmar_bible_dataset]  
 - **Paper [optional]:** N/A  
 - **Demo [optional]:** N/A  
 
