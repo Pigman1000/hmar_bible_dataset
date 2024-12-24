@@ -1,5 +1,5 @@
 ---
-license: cc-by-4.0
+license: MIT
 ---
 
 # Dataset Card for Hmar Bible Dataset
@@ -22,7 +22,7 @@ This dataset provides verse-level parallel translations of the Bible in English 
 
 ### Dataset Sources
 
-- **Repository:** [https://github.com/Pigman1000/hmar_bible_dataset]  
+- **Repository:** [Hmar Bible Dataset on Huggingface](https://huggingface.co/datasets/keikanih/hmar_bible_dataset)
 - **Paper [optional]:** N/A  
 - **Demo [optional]:** N/A  
 
@@ -109,6 +109,10 @@ This dataset does not contain personal or sensitive information. It includes onl
 ## Recommendations
 
 Users should ensure appropriate preprocessing and validation before using the dataset for critical applications.
+
+# Related Datasets
+- [Hmar Language Basic Words on Huggingface](https://huggingface.co/datasets/keikanih/hmar_language_basic_words)
+- [Hmar Language Conversations](https://huggingface.co/datasets/keikanih/hmar_language_conversations)
 
 ## Citation
 
